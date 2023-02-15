@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font: 18px 'Roboto', sans-serif;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+
+.page-header h1 {
+    text-align: center;
+    color:blueviolet;
+    margin: 20px;
+}
+
+section{
+    border-style:dotted;
+    padding-left: 50px;
+    text-indent: 20px;
+    width: 1000px;
+    line-height: 25px;
+    text-decoration:solid;
+    font-weight: 600px;
+}
+
+section div{
+    margin: 20px;
+}
+
+section div ol{
+    padding-left: 300px;
+}
+
+div h2{
+    text-decoration: underline; 
+    text-decoration-color: chartreuse;
+    text-decoration-thickness: 10px;
+}
+
+section div ol p{
+    padding-left: 20px;
+    color: black;
+}
+
+.aem-faqs{
+    color: red;
+    font-style: italic;
+    
+}
+
+.creative-faqs{
+    color:brown;
+}
+
+
+

@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font: 18px 'Roboto', sans-serif;
+    color: seashell;
+    background-color: darkcyan;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+h1{
+    font: 52px oblique;
+    font-weight: 200;
+    text-decoration:underline;
+    text-decoration-style: dashed;
+    color: mistyrose;
+}
+
+p{
+    font-style: italic;
+    font-weight: 700;
+    text-align: center;
+    padding: 20px 30px;
+    line-height: 20px;
+    margin: 10px;
+    border: 10px;
+    border-style: inset;
+    border-radius: 20px;    
+}
+
+.teaser p {
+    width: 700px;
+}
+
+img{
+    width: 800px;
+
+}
+
