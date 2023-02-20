@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+
+body {
+    font: 18px 'Roboto', sans-serif;
+    color: gray;
+    text-align: center;
+    display:inline;
+}
+
+h1 {
+    background-color: lightcoral;
+    padding: 200px 100px;
+}
+
+
+span {
+    background-color:violet;
+    padding: 10px 10px;
+    display: block;
+    color: teal;
+    border-style:groove;
+    border-color: black;
+    border-radius: 100px;
+    margin-top: 10px;
+}
