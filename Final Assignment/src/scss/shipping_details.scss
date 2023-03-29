@@ -1,0 +1,43 @@
+.homepage__shipping__cards {
+  display: flex;
+  height: 211px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+
+  .homepage__shipping__card {
+    display: flex;
+    flex-wrap: wrap;
+    .img {
+      height: 28px;
+      width: 30px;
+      display: flex;
+      align-items: center;
+      color: #024e82;
+    }
+    .h3 {
+      font-family: Baloo;
+      font-size: 16px;
+      font-weight: 400;
+      margin-left: revert;
+      line-height: 25px;
+      letter-spacing: 0em;
+      display: flex;
+      align-items: center;
+      text-transform: uppercase;
+    }
+    .p {
+      font-family: Lato;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 19px;
+      letter-spacing: 0em;
+      text-align: left;
+      height: 39px;
+      width: 189px;
+      left: 52px;
+      top: 32px;
+      border-radius: nullpx;
+    }
+  }
+}
